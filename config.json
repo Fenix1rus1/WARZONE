@@ -3,7 +3,7 @@
 		{
 			"vk": {
 				"token": "4186b281be8e3b033b09027b6055024d58baad535079a1eacadbd28c7b494f28a575ae67b19f0fe7c227f",
-				"group_id": "club198297503",
+				"group_id": "warzone_fan",
 				"keywords": [],
 				"filter": true,
 				"longpoll": false,
@@ -12,8 +12,8 @@
 			"discord": {
 				"webhook_urls": [	"https://discord.com/api/webhooks/778198856319238156/brRMrE6cSaNdHyeUf0bZTP2VCgCFD57DPxqzn8CnVQ7rkUtsUlUwkmfQqp-kk7SZIxI3"
 				],
-				"bot_name": "testbot",
-				"color": "#aabbcc"
+				"bot_name": "WARZONE NEWS",
+				"color": "#ff4d4d"
 			}
 		}
 	],

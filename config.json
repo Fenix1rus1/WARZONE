@@ -7,7 +7,7 @@
 				"keywords": [],
 				"filter": true,
 				"longpoll": false,
-				"interval": 5
+				"interval": 600
 			},
 			"discord": {
 				"webhook_urls": [	"https://discord.com/api/webhooks/778198856319238156/brRMrE6cSaNdHyeUf0bZTP2VCgCFD57DPxqzn8CnVQ7rkUtsUlUwkmfQqp-kk7SZIxI3"

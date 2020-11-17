@@ -2,21 +2,21 @@
 	"clusters": [
 		{
 			"vk": {
-				"token": "00f2b61cf749ea678624f196fe2c65f3074d2611a31031e4b1b3cae1518329b67a6420ad0265c8e9fb757",
-				"group_id": "pubg.lite",
+				"token": "4186b281be8e3b033b09027b6055024d58baad535079a1eacadbd28c7b494f28a575ae67b19f0fe7c227f",
+				"group_id": "club198297503",
 				"keywords": [],
 				"filter": true,
 				"longpoll": false,
-				"interval": 30
+				"interval": 5
 			},
 			"discord": {
-				"webhook_urls": [
-					"https://discordapp.com/api/webhooks/759688000875134997/Dz635GpEwhL9HgV7tDIUOfOnJapR0YhqTOKb84vSpfJ6l9d_0jF017HsBT51i3BiOHKu"
+				"webhook_urls": [	"https://discord.com/api/webhooks/778198856319238156/brRMrE6cSaNdHyeUf0bZTP2VCgCFD57DPxqzn8CnVQ7rkUtsUlUwkmfQqp-kk7SZIxI3"
 				],
-				"bot_name": "pubg news",
+				"bot_name": "testbot",
 				"color": "#aabbcc"
 			}
 		}
 	],
 	"version_dont_modify_me": 1
 }
+
